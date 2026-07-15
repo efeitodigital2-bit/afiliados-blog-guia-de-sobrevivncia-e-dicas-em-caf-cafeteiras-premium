@@ -4,7 +4,7 @@ description: "Sua cafeteira italiana vaza? Aprenda a identificar e consertar vaz
 pubDate: "2026-07-15"
 category: "Solucoes"
 heroImage: "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&w=800"
-affiliateLink: "https://meli.la/337V1ru"
+affiliateLink: "https://meli.la/1gDAT6N"
 tags: ["café", "solucoes", "cafeteiras", "2026"]
 ---
 
@@ -65,7 +65,7 @@ Com a cafeteira limpa, remova a borracha de vedação antiga (ela geralmente est
 *   **Inspecione:** Observe-a. Se estiver dura, ressecada, rachada ou com sinais de desgaste, é hora de substituí-la. Esta é, de longe, a solução mais comum para vazamentos.
 *   **Substituição:** Com a nova borracha em mãos, encaixe-a cuidadosamente no lugar. Ela deve ficar firme e nivelada. Certifique-se de comprar o tamanho correto para o modelo da sua cafeteira! Uma borracha de vedação nova faz maravilhas.
     
-    Se você precisa de uma borracha de vedação ou outros componentes, pode encontrar ótimas opções para sua cafeteira: [👉 Ver Peças de Reposição no Mercado Livre](https://meli.la/337V1ru)
+    Se você precisa de uma borracha de vedação ou outros componentes, pode encontrar ótimas opções para sua cafeteira: [👉 Ver Peças de Reposição no Mercado Livre](https://meli.la/1gDAT6N)
 
 ### 3. Montagem Correta e o Aperto Ideal
 
@@ -92,6 +92,6 @@ Para que você nunca mais precise se preocupar com vazamentos:
 *   **Armazenamento:** Guarde sua cafeteira desmontada ou com as partes levemente desrosqueadas para permitir que a borracha de vedação "descanse" e não fique constantemente comprimida.
 
 Seguindo essas dicas, sua cafeteira italiana será sua companheira fiel por muitos e muitos anos. E se, por um acaso, sua cafeteira já for muito antiga, apresentar rachaduras na estrutura de metal ou se os vazamentos persistirem mesmo após todas as tentativas, talvez seja a hora de investir em uma nova. Afinal, um bom café é um investimento na sua felicidade!
-[🔥 Aproveitar Desconto Exclusivo em Cafeteiras Italianas no Mercado Livre](https://meli.la/337V1ru)
+[🔥 Aproveitar Desconto Exclusivo em Cafeteiras Italianas no Mercado Livre](https://meli.la/1gDAT6N)
 
 Com estas dicas de Agente Ninja, você está mais do que preparado para enfrentar qualquer vazamento. Volte a desfrutar do seu café perfeitamente extraído, sem surpresas desagradáveis. Afinal, cada xícara deve ser uma celebração!
