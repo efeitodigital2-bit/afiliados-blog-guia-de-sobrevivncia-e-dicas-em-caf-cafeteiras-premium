@@ -1,0 +1,31 @@
+{
+  "theme": "guia de sobrevivência e dicas em café & cafeteiras premium",
+  "categories": [
+    {
+      "value": "guia-de-sobreviv-ncia-e-dicas-em-caf-cafeteiras-premium",
+      "label": "Guia de sobrevivência e dicas em café & cafeteiras premium"
+    },
+    {
+      "value": "dicas",
+      "label": "Dicas de Guia de sobrevivência e dicas em café & cafeteiras premium"
+    },
+    {
+      "value": "analises",
+      "label": "Análises e Guias"
+    }
+  ],
+  "images": [
+    {
+      "value": "/recommended-guia-de-sobreviv-ncia-e-dicas-em-caf-cafeteiras-premium-1.jpg",
+      "label": "Guia de sobrevivência e dicas em café & cafeteiras premium Premium"
+    },
+    {
+      "value": "/recommended-guia-de-sobreviv-ncia-e-dicas-em-caf-cafeteiras-premium-2.jpg",
+      "label": "Guia de sobrevivência e dicas em café & cafeteiras premium Custo-Benefício"
+    },
+    {
+      "value": "/recommended-guia-de-sobreviv-ncia-e-dicas-em-caf-cafeteiras-premium-3.jpg",
+      "label": "Melhores Guia de sobrevivência e dicas em café & cafeteiras premium"
+    }
+  ]
+}
