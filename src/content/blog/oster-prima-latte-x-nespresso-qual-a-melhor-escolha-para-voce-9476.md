@@ -14,6 +14,8 @@ tags:
   - "design"
   - "praticidade"
   - "sofisticação"
+
+affiliateLink: "https://meli.la/1gDAT6N"
 ---
 
 ## Oster Prima Latte x Nespresso: Qual a Melhor Escolha para Você?

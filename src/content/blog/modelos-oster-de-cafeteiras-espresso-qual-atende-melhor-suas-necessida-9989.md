@@ -9,6 +9,8 @@ tags:
   - "Oster"
   - "baristas"
   - "café"
+
+affiliateLink: "https://meli.la/1gDAT6N"
 ---
 
 ##  Modelos Oster de Cafeteiras Espresso: Qual Atende Melhor Suas Necessidades?

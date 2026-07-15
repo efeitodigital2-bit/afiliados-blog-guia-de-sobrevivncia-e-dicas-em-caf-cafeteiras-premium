@@ -5,6 +5,8 @@ pubDate: "2026-07-15"
 heroImage: "/images/oster-prima-latte-pros-e-contras-antes-de-comprar-sua-cafeteira.jpg"
 tags:
   - "colchão"
+
+affiliateLink: "https://meli.la/1gDAT6N"
 ---
 
 ## Oster Prima Latte: Prós e Contras Antes de Comprar sua Cafeteira

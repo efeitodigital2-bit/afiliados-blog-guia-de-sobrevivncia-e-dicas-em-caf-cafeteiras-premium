@@ -12,6 +12,8 @@ tags:
   - "qualidade"
   - "praticidade"
   - "tecnologia"
+
+affiliateLink: "https://meli.la/1gDAT6N"
 ---
 
 ## Presente Ideal: Por Que uma Cafeteira Espresso Oster é a Melhor Opção

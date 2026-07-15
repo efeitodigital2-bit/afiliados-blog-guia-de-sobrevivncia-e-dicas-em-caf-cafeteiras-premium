@@ -12,6 +12,8 @@ tags:
   - "latte macchiato"
   - "machine de café"
   - "melhor café"
+
+affiliateLink: "https://meli.la/1gDAT6N"
 ---
 
 ## A Cafeteira Oster Prima Latte é Boa para Iniciantes? Descubra Aqui!

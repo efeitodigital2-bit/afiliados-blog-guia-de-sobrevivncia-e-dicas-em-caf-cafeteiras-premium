@@ -13,6 +13,8 @@ tags:
   - "Tecnologia"
   - "Elegante"
   - "Prático"
+
+affiliateLink: "https://meli.la/1gDAT6N"
 ---
 
 ## Review Oster Super Automática: O Futuro do Café na Sua Casa?

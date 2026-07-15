@@ -14,6 +14,8 @@ tags:
   - "design"
   - "prática"
   - "qualidade"
+
+affiliateLink: "https://meli.la/1gDAT6N"
 ---
 
 ## A Cafeteira Oster Prima Latte Entra em Promoção: Fique de Olho!

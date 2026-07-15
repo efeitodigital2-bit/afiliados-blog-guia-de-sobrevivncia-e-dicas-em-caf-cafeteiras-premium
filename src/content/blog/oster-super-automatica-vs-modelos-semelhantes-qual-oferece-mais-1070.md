@@ -13,6 +13,8 @@ tags:
   - "Personalização"
   - "Limpeza Automática"
   - "Modelos Inovadores"
+
+affiliateLink: "https://meli.la/1gDAT6N"
 ---
 
 ## Oster Super Automática vs. Modelos Semelhantes: Qual Oferece Mais?

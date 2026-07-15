@@ -17,6 +17,8 @@ tags:
   - "café da manhã"
   - "lazer"
   - "descanso"
+
+affiliateLink: "https://meli.la/1gDAT6N"
 ---
 
 ## Oster Super Automática em Oferta: Vale a Pena Esperar?

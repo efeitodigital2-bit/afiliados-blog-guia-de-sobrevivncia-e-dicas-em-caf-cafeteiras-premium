@@ -12,6 +12,8 @@ tags:
   - "bebidas italianas"
   - "espumante"
   - "prática"
+
+affiliateLink: "https://meli.la/1gDAT6N"
 ---
 
 ## Fazer Cappuccino na Oster Prima Latte: Passo a Passo Sem Erros

@@ -5,6 +5,8 @@ pubDate: "2026-07-15"
 heroImage: "/images/vale-a-pena-comprar-uma-cafeteira-espresso-oster-usada.jpg"
 tags:
   - "colchão"
+
+affiliateLink: "https://meli.la/1gDAT6N"
 ---
 
 ## Vale a Pena Comprar uma Cafeteira Espresso Oster Usada?

@@ -12,6 +12,8 @@ tags:
   - "reparo"
   - "troubleshooting"
   - "eletrodomésticos"
+
+affiliateLink: "https://meli.la/1gDAT6N"
 ---
 
 ## Resolver Problemas na Cafeteira Oster Super Automática: Guia Rápido

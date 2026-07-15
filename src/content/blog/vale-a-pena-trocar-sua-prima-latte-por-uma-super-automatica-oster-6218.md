@@ -17,6 +17,8 @@ tags:
   - "pausa"
   - "praticidade"
   - "qualidade"
+
+affiliateLink: "https://meli.la/1gDAT6N"
 ---
 
 ## Vale a Pena Trocar Sua Prima Latte por uma Super Automática Oster?

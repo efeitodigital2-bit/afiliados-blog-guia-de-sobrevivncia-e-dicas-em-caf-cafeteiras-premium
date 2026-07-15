@@ -5,6 +5,8 @@ pubDate: "2026-07-15"
 heroImage: "/images/melhor-preco-oster-prima-latte-onde-comprar-e-economizar-agora.jpg"
 tags:
   - "colchão"
+
+affiliateLink: "https://meli.la/1gDAT6N"
 ---
 
 ## Melhor Preço Oster Prima Latte: Onde Comprar e Economizar Agora!

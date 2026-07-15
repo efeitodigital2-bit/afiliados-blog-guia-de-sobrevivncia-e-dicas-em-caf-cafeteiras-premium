@@ -16,6 +16,8 @@ tags:
   - "qualidade"
   - "tecnologia"
   - "praticidade"
+
+affiliateLink: "https://meli.la/1gDAT6N"
 ---
 
 ## Maximizando o Sabor: Dicas Avançadas para Cafeteiras Oster

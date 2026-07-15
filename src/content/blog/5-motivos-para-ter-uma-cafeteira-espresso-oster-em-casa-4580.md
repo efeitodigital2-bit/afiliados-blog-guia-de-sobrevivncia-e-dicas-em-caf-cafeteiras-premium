@@ -21,6 +21,8 @@ tags:
   - "satisfação"
   - "bem-estar"
   - "relaxamento"
+
+affiliateLink: "https://meli.la/1gDAT6N"
 ---
 
 ##  5 Motivos para Ter uma Cafeteira Espresso Oster em Casa

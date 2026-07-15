@@ -11,6 +11,8 @@ tags:
   - "tecnologia"
   - "design"
   - "Oster"
+
+affiliateLink: "https://meli.la/1gDAT6N"
 ---
 
 ## Oster Super Automática: Encontre o Melhor Preço e Custo-Benefício

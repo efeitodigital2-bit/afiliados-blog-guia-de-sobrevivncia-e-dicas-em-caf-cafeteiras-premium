@@ -12,6 +12,8 @@ tags:
   - "café"
   - "review"
   - "compra"
+
+affiliateLink: "https://meli.la/1gDAT6N"
 ---
 
 ## Review Oster Prima Latte Touch: Café Perfeito com Um Toque?

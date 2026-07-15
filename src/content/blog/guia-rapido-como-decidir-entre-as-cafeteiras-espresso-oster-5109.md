@@ -10,6 +10,8 @@ tags:
   - "máquina de café"
   - "café gourmet"
   - "experiência café"
+
+affiliateLink: "https://meli.la/1gDAT6N"
 ---
 
 ## Guia Rápido: Como Decidir Entre as Cafeteiras Espresso Oster

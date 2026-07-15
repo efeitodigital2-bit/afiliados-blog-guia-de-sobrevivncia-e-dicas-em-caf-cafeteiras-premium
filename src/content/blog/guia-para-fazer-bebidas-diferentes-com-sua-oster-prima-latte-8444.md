@@ -13,6 +13,8 @@ tags:
   - "latte art"
   - "bebidas"
   - "café expresso"
+
+affiliateLink: "https://meli.la/1gDAT6N"
 ---
 
 ## Guia para Fazer Bebidas Diferentes com Sua Oster Prima Latte 

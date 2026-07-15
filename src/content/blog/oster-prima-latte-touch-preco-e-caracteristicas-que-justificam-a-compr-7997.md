@@ -17,6 +17,8 @@ tags:
   - "durabilidade"
   - "limpeza"
   - "fácil de usar"
+
+affiliateLink: "https://meli.la/1gDAT6N"
 ---
 
 ## Oster Prima Latte Touch: Preço e Características Que Justificam a Compra

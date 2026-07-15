@@ -16,6 +16,8 @@ tags:
   - "qualidade"
   - "praticidade"
   - "garantia"
+
+affiliateLink: "https://meli.la/1gDAT6N"
 ---
 
 ## Oster Prima Latte: As Melhores Ofertas e Promoções Imperdíveis

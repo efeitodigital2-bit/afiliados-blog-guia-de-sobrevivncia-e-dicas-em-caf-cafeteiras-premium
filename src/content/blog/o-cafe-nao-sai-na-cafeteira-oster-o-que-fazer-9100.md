@@ -5,6 +5,8 @@ pubDate: "2026-07-15"
 heroImage: "/images/o-cafe-nao-sai-na-cafeteira-oster-o-que-fazer.jpg"
 tags:
   - "colchão"
+
+affiliateLink: "https://meli.la/1gDAT6N"
 ---
 
 ## O Café Não Sai na Cafeteira Oster: O Que Fazer?

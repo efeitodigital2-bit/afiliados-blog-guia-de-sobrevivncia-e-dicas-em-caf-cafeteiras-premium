@@ -15,6 +15,8 @@ tags:
   - "qualidade"
   - "preço"
   - "promoção"
+
+affiliateLink: "https://meli.la/1gDAT6N"
 ---
 
 ## Vale a Pena Comprar a Oster Prima Latte em 2024? Análise de Preço

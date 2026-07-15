@@ -11,6 +11,8 @@ tags:
   - "manutenção"
   - "troubleshooting"
   - "reparo"
+
+affiliateLink: "https://meli.la/1gDAT6N"
 ---
 
 ## Minha Cafeteira Oster Faz Barulho Estranho: Causas e Soluções

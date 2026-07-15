@@ -14,6 +14,8 @@ tags:
   - "compra"
   - "especialista"
   - "afiliado"
+
+affiliateLink: "https://meli.la/1gDAT6N"
 ---
 
 ## Oster Prima Latte III vs. Touch: Qual Cafeteira Espresso é Ideal?

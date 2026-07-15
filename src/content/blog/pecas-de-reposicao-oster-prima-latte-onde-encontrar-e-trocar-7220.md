@@ -13,6 +13,8 @@ tags:
   - "durabilidade"
   - "aroma"
   - "sabor"
+
+affiliateLink: "https://meli.la/1gDAT6N"
 ---
 
 ## Peças de Reposição Oster Prima Latte: Onde Encontrar e Trocar

@@ -11,6 +11,8 @@ tags:
   - "cafeteira"
   - "cappuccino"
   - "espresso"
+
+affiliateLink: "https://meli.la/1gDAT6N"
 ---
 
 ## Promoções Oster Prima Latte: Não Perca as Melhores Oportunidades!

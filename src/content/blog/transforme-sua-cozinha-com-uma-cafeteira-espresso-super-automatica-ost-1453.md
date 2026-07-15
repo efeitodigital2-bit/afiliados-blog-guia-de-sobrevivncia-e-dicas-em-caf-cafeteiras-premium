@@ -16,6 +16,8 @@ tags:
   - "praticidade"
   - "tecnologia"
   - "design"
+
+affiliateLink: "https://meli.la/1gDAT6N"
 ---
 
 ## Transforme Sua Cozinha com uma Cafeteira Espresso Super Automática Oster

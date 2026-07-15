@@ -5,6 +5,8 @@ pubDate: "2026-07-15"
 heroImage: "/images/oster-super-automatica-pros-e-contras-que-voce-precisa-saber.jpg"
 tags:
   - "colchão"
+
+affiliateLink: "https://meli.la/1gDAT6N"
 ---
 
 ## Oster Super Automática: Prós e Contras que Você Precisa Saber

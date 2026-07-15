@@ -13,6 +13,8 @@ tags:
   - "qualidade"
   - "praticidade"
   - "versatilidade"
+
+affiliateLink: "https://meli.la/1gDAT6N"
 ---
 
 ## Guia Definitivo: Como Escolher Sua Cafeteira Espresso Oster Perfeita

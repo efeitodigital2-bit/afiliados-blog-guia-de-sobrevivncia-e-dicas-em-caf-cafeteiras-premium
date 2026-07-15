@@ -15,6 +15,8 @@ tags:
   - "tecnologia"
   - "entrega rápida"
   - "cupom desconto"
+
+affiliateLink: "https://meli.la/1gDAT6N"
 ---
 
 ## Cafeteira Oster Prima Latte: Preço, Onde Comprar e Vantagens Exclusivas 

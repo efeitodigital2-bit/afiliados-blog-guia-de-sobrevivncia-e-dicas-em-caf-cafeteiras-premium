@@ -11,6 +11,8 @@ tags:
   - "mercado"
   - "comprar"
   - "produtos"
+
+affiliateLink: "https://meli.la/1gDAT6N"
 ---
 
 ## Qual a Melhor Cafeteira Espresso Oster para Home Office?

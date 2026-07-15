@@ -15,6 +15,8 @@ tags:
   - "versatilidade"
   - "review"
   - "comparação"
+
+affiliateLink: "https://meli.la/1gDAT6N"
 ---
 
 ## Oster Prima Latte II ou III? Comparativo Detalhado para Decidir

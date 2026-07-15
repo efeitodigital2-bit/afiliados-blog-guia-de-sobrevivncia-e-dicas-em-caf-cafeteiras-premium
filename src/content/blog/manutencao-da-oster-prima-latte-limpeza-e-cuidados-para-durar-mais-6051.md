@@ -13,6 +13,8 @@ tags:
   - "cuidados"
   - "durabilidade"
   - "tecnologia"
+
+affiliateLink: "https://meli.la/1gDAT6N"
 ---
 
 ## Manutenção da Oster Prima Latte: Limpeza e Cuidados para Durar Mais

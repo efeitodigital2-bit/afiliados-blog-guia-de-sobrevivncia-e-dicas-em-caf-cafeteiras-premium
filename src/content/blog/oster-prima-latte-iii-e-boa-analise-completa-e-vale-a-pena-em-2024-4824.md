@@ -13,6 +13,8 @@ tags:
   - "reviews"
   - "análise"
   - "comparação"
+
+affiliateLink: "https://meli.la/1gDAT6N"
 ---
 
 ## Oster Prima Latte III é Boa? Análise Completa e Vale a Pena em 2024

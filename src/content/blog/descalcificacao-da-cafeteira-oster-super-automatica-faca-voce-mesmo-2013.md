@@ -11,6 +11,8 @@ tags:
   - "manutenção"
   - "qualidade"
   - "saúde"
+
+affiliateLink: "https://meli.la/1gDAT6N"
 ---
 
 ## Descalcificação da Cafeteira Oster Super Automática: Faça Você Mesmo

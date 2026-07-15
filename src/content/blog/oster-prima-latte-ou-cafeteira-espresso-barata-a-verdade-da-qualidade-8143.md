@@ -15,6 +15,8 @@ tags:
   - "design"
   - "praticidade"
   - "versatilidade"
+
+affiliateLink: "https://meli.la/1gDAT6N"
 ---
 
 ## Oster Prima Latte ou Cafeteira Espresso Barata? A Verdade da Qualidade.

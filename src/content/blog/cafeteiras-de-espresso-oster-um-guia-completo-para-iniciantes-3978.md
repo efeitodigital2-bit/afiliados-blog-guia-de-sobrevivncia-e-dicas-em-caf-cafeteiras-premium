@@ -16,6 +16,8 @@ tags:
   - "sabor"
   - "aroma"
   - "ritual"
+
+affiliateLink: "https://meli.la/1gDAT6N"
 ---
 
 ## Cafeteiras de Espresso Oster: Um Guia Completo para Iniciantes

@@ -10,6 +10,8 @@ tags:
   - "Café"
   - "Lattes"
   - "Bebidas Quentes"
+
+affiliateLink: "https://meli.la/1gDAT6N"
 ---
 
 ##  Como Fazer o Leite Espumar Perfeitamente na Sua Oster Prima Latte

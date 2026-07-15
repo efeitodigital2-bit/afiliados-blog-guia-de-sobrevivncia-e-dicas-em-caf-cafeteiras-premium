@@ -13,6 +13,8 @@ tags:
   - "qualidade"
   - "praticidade"
   - "tecnologia"
+
+affiliateLink: "https://meli.la/1gDAT6N"
 ---
 
 ## Café Espresso em Casa: Por Que as Oster São uma Ótima Opção?

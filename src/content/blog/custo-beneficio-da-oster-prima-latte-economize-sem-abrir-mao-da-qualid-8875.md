@@ -12,6 +12,8 @@ tags:
   - "custo-benefício"
   - "qualidade"
   - "simplicidade"
+
+affiliateLink: "https://meli.la/1gDAT6N"
 ---
 
 ## Custo-Benefício da Oster Prima Latte: Economize sem Abrir Mão da Qualidade

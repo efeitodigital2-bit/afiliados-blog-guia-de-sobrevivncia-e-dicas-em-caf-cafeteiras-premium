@@ -11,6 +11,8 @@ tags:
   - "review"
   - "guia"
   - "comparativo"
+
+affiliateLink: "https://meli.la/1gDAT6N"
 ---
 
 ## Caféteira Espresso Oster: Guia Comparativo dos Principais Modelos

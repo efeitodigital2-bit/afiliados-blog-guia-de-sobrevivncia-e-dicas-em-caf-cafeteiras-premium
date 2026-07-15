@@ -17,6 +17,8 @@ tags:
   - "inovação"
   - "economia de tempo"
   - ""
+
+affiliateLink: "https://meli.la/1gDAT6N"
 ---
 
 ## Oster: Prima Latte e Super Automática – O Que Muda na Prática?

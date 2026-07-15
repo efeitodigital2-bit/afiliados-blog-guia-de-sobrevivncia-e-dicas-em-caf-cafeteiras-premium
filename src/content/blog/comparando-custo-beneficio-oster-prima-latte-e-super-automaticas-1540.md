@@ -14,6 +14,8 @@ tags:
   - "design"
   - "praticidade"
   - "qualidade"
+
+affiliateLink: "https://meli.la/1gDAT6N"
 ---
 
 ## Comparando Custo-Benefício: Oster Prima Latte e Super Automáticas

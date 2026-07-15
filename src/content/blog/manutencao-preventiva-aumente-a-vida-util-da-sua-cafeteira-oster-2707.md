@@ -13,6 +13,8 @@ tags:
   - "qualidade"
   - "durabilidade"
   - "longevidade"
+
+affiliateLink: "https://meli.la/1gDAT6N"
 ---
 
 ## Manutenção Preventiva: Aumente a Vida Útil da Sua Cafeteira Oster

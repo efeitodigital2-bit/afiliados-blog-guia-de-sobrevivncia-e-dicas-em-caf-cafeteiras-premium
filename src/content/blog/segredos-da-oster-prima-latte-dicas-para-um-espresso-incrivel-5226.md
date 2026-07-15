@@ -9,6 +9,8 @@ tags:
   - "Espresso"
   - "Café"
   - "Barista"
+
+affiliateLink: "https://meli.la/1gDAT6N"
 ---
 
 ## Segredos da Oster Prima Latte: Dicas para um Espresso Incrível

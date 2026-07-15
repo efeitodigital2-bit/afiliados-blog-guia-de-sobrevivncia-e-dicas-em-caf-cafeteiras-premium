@@ -5,6 +5,8 @@ pubDate: "2026-07-15"
 heroImage: "/images/qual-a-vida-util-de-uma-cafeteira-espresso-oster-dicas-para-longevidade.jpg"
 tags:
   - "colchão"
+
+affiliateLink: "https://meli.la/1gDAT6N"
 ---
 
 ## Qual a Vida Útil de uma Cafeteira Espresso Oster? Dicas para Longevidade

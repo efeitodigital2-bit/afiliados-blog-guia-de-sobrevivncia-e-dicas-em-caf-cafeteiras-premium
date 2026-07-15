@@ -16,6 +16,8 @@ tags:
   - "café"
   - "casa"
   - "cozinha"
+
+affiliateLink: "https://meli.la/1gDAT6N"
 ---
 
 ## Oster Prima Latte Barata: Encontre as Melhores Ofertas e Promoções

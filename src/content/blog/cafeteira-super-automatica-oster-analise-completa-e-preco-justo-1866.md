@@ -12,6 +12,8 @@ tags:
   - "design"
   - "tecnologia"
   - "qualidade"
+
+affiliateLink: "https://meli.la/1gDAT6N"
 ---
 
 ## Caféteira Super Automática Oster: Análise Completa e Preço Justo

@@ -10,6 +10,8 @@ tags:
   - "espresso"
   - "marketing afiliado"
   - "blog post"
+
+affiliateLink: "https://meli.la/1gDAT6N"
 ---
 
 ## Descubra a Cafeteira Espresso Oster Ideal para Cada Orçamento

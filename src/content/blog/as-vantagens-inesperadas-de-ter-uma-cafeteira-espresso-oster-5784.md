@@ -14,6 +14,8 @@ tags:
   - "qualidade"
   - "praticidade"
   - "durabilidade"
+
+affiliateLink: "https://meli.la/1gDAT6N"
 ---
 
 ##  As Vantagens Inesperadas de Ter uma Cafeteira Espresso Oster

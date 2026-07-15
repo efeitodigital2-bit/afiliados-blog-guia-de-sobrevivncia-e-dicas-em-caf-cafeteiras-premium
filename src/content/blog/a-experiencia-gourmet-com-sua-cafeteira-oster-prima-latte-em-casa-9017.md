@@ -16,6 +16,8 @@ tags:
   - "cappuccino"
   - "macchiato"
   - "cafe"
+
+affiliateLink: "https://meli.la/1gDAT6N"
 ---
 
 ## A Experiência Gourmet com sua Cafeteira Oster Prima Latte em Casa

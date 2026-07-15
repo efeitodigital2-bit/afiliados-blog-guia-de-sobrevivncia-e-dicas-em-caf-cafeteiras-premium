@@ -9,6 +9,8 @@ tags:
   - "super automática"
   - "cafeteira automática"
   - "melhor cafeteira"
+
+affiliateLink: "https://meli.la/1gDAT6N"
 ---
 
 ## As Melhores Cafeteiras Super Automáticas Oster para Comprar em 2024

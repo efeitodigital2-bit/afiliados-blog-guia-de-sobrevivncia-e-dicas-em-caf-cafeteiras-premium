@@ -16,6 +16,8 @@ tags:
   - "experiência"
   - "bebida italiana"
   - "arte da cafeteira"
+
+affiliateLink: "https://meli.la/1gDAT6N"
 ---
 
 ## Tudo Sobre Cafeteiras de Espresso Oster: Perguntas Frequentes

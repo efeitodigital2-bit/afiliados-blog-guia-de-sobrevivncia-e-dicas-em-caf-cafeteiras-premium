@@ -11,6 +11,8 @@ tags:
   - "bem-estar"
   - "qualidade"
   - "saúde"
+
+affiliateLink: "https://meli.la/1gDAT6N"
 ---
 
 ## Oster Super Automática: Descubra Se Vale a Pena o Alto Investimento

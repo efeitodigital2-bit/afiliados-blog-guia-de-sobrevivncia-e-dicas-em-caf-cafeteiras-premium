@@ -13,6 +13,8 @@ tags:
   - "qualidade"
   - "design"
   - "aroma"
+
+affiliateLink: "https://meli.la/1gDAT6N"
 ---
 
 ## Oster Prima Latte ou Uma Mais Cara? Comparativo de Valor e Qualidade

@@ -13,6 +13,8 @@ tags:
   - "qualidade de vida"
   - "bem-estar"
   - "manhã"
+
+affiliateLink: "https://meli.la/1gDAT6N"
 ---
 
 ## Oster Prima Latte: A Receita para o Despertar Perfeito Todas as Manhãs

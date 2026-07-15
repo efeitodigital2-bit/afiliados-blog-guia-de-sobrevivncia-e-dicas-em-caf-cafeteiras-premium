@@ -16,6 +16,8 @@ tags:
   - "manutenção"
   - "qualidade"
   - "aroma"
+
+affiliateLink: "https://meli.la/1gDAT6N"
 ---
 
 ## Problemas Comuns na Oster Prima Latte e Como Resolver Facilmente

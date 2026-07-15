@@ -15,6 +15,8 @@ tags:
   - "espresso"
   - "chás"
   - "smoothies"
+
+affiliateLink: "https://meli.la/1gDAT6N"
 ---
 
 ## Por Que a Oster Prima Latte é a Cafeteira Preferida dos Baristas Amadores

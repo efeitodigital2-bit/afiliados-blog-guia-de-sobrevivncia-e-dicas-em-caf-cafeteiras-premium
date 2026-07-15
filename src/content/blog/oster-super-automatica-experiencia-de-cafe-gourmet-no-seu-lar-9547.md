@@ -13,6 +13,8 @@ tags:
   - "design moderno"
   - "experiência completa"
   - "tecnologia inovadora"
+
+affiliateLink: "https://meli.la/1gDAT6N"
 ---
 
 ## Oster Super Automática: Experiência de Café Gourmet no Seu Lar

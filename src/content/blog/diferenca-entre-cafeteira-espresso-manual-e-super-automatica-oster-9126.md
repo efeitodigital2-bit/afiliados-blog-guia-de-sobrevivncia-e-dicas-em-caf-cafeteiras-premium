@@ -14,6 +14,8 @@ tags:
   - "espresso"
   - "filtro"
   - "cappuccino"
+
+affiliateLink: "https://meli.la/1gDAT6N"
 ---
 
 ## Diferença Entre Caféteira Espresso Manual e Super Automática Oster

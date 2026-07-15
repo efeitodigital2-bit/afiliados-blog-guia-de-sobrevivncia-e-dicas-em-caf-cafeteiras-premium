@@ -14,6 +14,8 @@ tags:
   - "Experiência"
   - "Guia"
   - "Ajustes"
+
+affiliateLink: "https://meli.la/1gDAT6N"
 ---
 
 ## Oster Espresso: O Guia Completo para Calibração e Ajustes de Moagem

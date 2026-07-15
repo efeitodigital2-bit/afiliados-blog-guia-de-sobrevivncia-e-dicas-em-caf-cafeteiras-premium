@@ -10,6 +10,8 @@ tags:
   - "café"
   - "cappuccino"
   - "latte"
+
+affiliateLink: "https://meli.la/1gDAT6N"
 ---
 
 ## Caféteira Espresso Oster: Mitos e Verdades Antes de Adquirir

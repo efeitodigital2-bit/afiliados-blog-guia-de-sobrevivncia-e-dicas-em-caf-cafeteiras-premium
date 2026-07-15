@@ -13,6 +13,8 @@ tags:
   - "tecnologia"
   - "design"
   - "praticidade"
+
+affiliateLink: "https://meli.la/1gDAT6N"
 ---
 
 ## Super Automática Oster vs. Philips/De'Longhi: Batalha das Cafeteiras

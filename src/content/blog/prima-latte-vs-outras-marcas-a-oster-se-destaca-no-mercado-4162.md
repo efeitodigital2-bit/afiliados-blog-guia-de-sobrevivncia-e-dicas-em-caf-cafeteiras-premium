@@ -15,6 +15,8 @@ tags:
   - "qualidade"
   - "praticidade"
   - "durabilidade"
+
+affiliateLink: "https://meli.la/1gDAT6N"
 ---
 
 ## Prima Latte vs. Outras Marcas: A Oster se Destaca no Mercado?

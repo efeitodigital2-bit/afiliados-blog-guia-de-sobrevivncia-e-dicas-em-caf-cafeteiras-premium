@@ -15,6 +15,8 @@ tags:
   - "sabor"
   - "filtrado"
   - "autodesinfecção"
+
+affiliateLink: "https://meli.la/1gDAT6N"
 ---
 
 ## Investindo em uma Cafeteira Oster: Guia Completo de Modelos e Funções

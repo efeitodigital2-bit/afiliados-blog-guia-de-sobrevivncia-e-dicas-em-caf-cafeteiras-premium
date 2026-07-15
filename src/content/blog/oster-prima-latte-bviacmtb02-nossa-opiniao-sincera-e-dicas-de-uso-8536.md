@@ -14,6 +14,8 @@ tags:
   - "tecnologia"
   - "design"
   - "versatilidade"
+
+affiliateLink: "https://meli.la/1gDAT6N"
 ---
 
 ## Oster Prima Latte BVIACMTB02: Nossa Opinião Sincera e Dicas de Uso

@@ -14,6 +14,8 @@ tags:
   - "praticidade"
   - "energia"
   - "bem-estar"
+
+affiliateLink: "https://meli.la/1gDAT6N"
 ---
 
 ## Dicas Essenciais Antes de Comprar Sua Próxima Cafeteira Espresso Oster

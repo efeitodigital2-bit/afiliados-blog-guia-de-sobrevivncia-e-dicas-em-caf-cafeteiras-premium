@@ -10,6 +10,8 @@ tags:
   - "café"
   - "bar"
   - "bebidas"
+
+affiliateLink: "https://meli.la/1gDAT6N"
 ---
 
 ## Comprar Cafeteira Oster Super Automática Barata: É Possível? 

@@ -14,6 +14,8 @@ tags:
   - "design"
   - "qualidade"
   - "sabor"
+
+affiliateLink: "https://meli.la/1gDAT6N"
 ---
 
 ## Oster Super Automática: Da Moagem à Xícara em Segundos

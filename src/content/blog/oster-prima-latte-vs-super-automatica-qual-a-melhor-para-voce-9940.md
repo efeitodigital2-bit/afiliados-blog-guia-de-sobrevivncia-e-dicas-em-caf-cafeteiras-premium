@@ -5,6 +5,8 @@ pubDate: "2026-07-15"
 heroImage: "/images/oster-prima-latte-vs-super-automatica-qual-a-melhor-para-voce.jpg"
 tags:
   - "colchão"
+
+affiliateLink: "https://meli.la/1gDAT6N"
 ---
 
 ## Oster Prima Latte vs. Super Automática: Qual a Melhor para Você?

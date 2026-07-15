@@ -12,6 +12,8 @@ tags:
   - "Massagem"
   - "Tecnologia"
   - "Promoção"
+
+affiliateLink: "https://meli.la/1gDAT6N"
 ---
 
 ## Onde Encontrar Descontos na Oster Super Automática: Guia de Compras

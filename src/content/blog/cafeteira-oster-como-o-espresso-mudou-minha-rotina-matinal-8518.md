@@ -13,6 +13,8 @@ tags:
   - "rotina"
   - "bem-estar"
   - "qualidade"
+
+affiliateLink: "https://meli.la/1gDAT6N"
 ---
 
 ## Caféteira Oster: Como o Espresso Mudou Minha Rotina Matinal

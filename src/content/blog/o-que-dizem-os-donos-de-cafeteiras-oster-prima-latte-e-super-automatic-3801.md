@@ -15,6 +15,8 @@ tags:
   - "Design"
   - "Elegância"
   - "Versatilidade"
+
+affiliateLink: "https://meli.la/1gDAT6N"
 ---
 
 ## O Que Dizem os Donos de Cafeteiras Oster Prima Latte e Super Automática? 

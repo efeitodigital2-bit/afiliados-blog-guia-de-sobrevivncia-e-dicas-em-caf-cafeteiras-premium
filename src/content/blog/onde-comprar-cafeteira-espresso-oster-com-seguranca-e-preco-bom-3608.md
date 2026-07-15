@@ -15,6 +15,8 @@ tags:
   - "segurança"
   - "compra online"
   - "loja online"
+
+affiliateLink: "https://meli.la/1gDAT6N"
 ---
 
 ## Onde Comprar Cafeteira Espresso Oster com Segurança e Preço Bom?

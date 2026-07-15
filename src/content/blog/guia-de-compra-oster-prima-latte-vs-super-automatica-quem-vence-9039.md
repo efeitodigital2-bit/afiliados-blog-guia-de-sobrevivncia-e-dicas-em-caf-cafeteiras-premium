@@ -5,6 +5,8 @@ pubDate: "2026-07-15"
 heroImage: "/images/guia-de-compra-oster-prima-latte-vs-super-automatica-quem-vence.jpg"
 tags:
   - "colchão"
+
+affiliateLink: "https://meli.la/1gDAT6N"
 ---
 
 ## Guia de Compra: Oster Prima Latte vs. Super Automática, Quem Vence?

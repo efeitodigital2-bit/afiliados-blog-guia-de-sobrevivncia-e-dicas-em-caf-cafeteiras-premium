@@ -13,6 +13,8 @@ tags:
   - "entupimento"
   - "café"
   - "qualidade"
+
+affiliateLink: "https://meli.la/1gDAT6N"
 ---
 
 ##  Como Evitar Entupimentos na Sua Cafeteira Espresso Oster: Guia Completo para um Café Perfecto! 

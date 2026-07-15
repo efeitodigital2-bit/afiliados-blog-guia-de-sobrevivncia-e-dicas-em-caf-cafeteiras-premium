@@ -14,6 +14,8 @@ tags:
   - "otimização"
   - "consumo"
   - "qualidade"
+
+affiliateLink: "https://meli.la/1gDAT6N"
 ---
 
 ##  Erros Comuns ao Usar Cafeteiras Espresso Oster (e como Evitá-los)

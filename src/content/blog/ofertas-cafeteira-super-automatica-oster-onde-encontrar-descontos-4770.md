@@ -5,6 +5,8 @@ pubDate: "2026-07-15"
 heroImage: "/images/ofertas-cafeteira-super-automatica-oster-onde-encontrar-descontos.jpg"
 tags:
   - "colchão"
+
+affiliateLink: "https://meli.la/1gDAT6N"
 ---
 
 ## Ofertas Cafeteira Super Automática Oster: Onde Encontrar Descontos

@@ -10,6 +10,8 @@ tags:
   - "cappuccino"
   - "latte macchiato"
   - "gelatinas"
+
+affiliateLink: "https://meli.la/1gDAT6N"
 ---
 
 ## A Oster Prima Latte Realmente Entrega um Café de Cafeteria? ☕

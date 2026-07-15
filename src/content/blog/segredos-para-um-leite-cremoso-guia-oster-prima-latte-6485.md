@@ -9,6 +9,8 @@ tags:
   - "Cafe da Manhã"
   - "Receitas de Café da Manhã"
   - "Máquina de Leite Cremoso"
+
+affiliateLink: "https://meli.la/1gDAT6N"
 ---
 
 ## Segredos para Um Leite Cremoso: Guia Oster Prima Latte

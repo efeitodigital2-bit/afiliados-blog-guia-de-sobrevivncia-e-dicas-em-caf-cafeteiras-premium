@@ -14,6 +14,8 @@ tags:
   - "Qualidade"
   - "Design"
   - "Inovação"
+
+affiliateLink: "https://meli.la/1gDAT6N"
 ---
 
 ## Oster Prima Latte: Vale a Pena o Investimento em Custo-Benefício?

@@ -13,6 +13,8 @@ tags:
   - "tecnologia"
   - "design"
   - "variedade"
+
+affiliateLink: "https://meli.la/1gDAT6N"
 ---
 
 ## Por que Escolher uma Cafeteira Super Automática Oster?

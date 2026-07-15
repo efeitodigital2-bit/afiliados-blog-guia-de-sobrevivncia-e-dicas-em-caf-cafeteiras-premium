@@ -15,6 +15,8 @@ tags:
   - "qualidade"
   - "aroma"
   - "sabor"
+
+affiliateLink: "https://meli.la/1gDAT6N"
 ---
 
 ## A Cafeteira Oster Super Automática Vale Cada Centavo? Nossa Opinião

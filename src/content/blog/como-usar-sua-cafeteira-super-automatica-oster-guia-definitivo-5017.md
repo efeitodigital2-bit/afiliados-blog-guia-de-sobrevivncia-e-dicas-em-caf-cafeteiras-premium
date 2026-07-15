@@ -13,6 +13,8 @@ tags:
   - "qualidade"
   - "sabor"
   - "aroma"
+
+affiliateLink: "https://meli.la/1gDAT6N"
 ---
 
 ##  Como Usar sua Cafeteira Super Automática Oster: Guia Definitivo ☕

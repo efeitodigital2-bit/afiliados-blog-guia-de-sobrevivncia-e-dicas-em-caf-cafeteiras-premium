@@ -9,6 +9,8 @@ tags:
   - "Sono reparador"
   - "Qualidade"
   - "Tecnologia"
+
+affiliateLink: "https://meli.la/1gDAT6N"
 ---
 
 ## Comparativo Oster Super Automática: Modelos e Preços para Sua Escolha

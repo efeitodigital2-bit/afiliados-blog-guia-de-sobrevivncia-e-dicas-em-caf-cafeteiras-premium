@@ -13,6 +13,8 @@ tags:
   - "sabor"
   - "manual"
   - "guia"
+
+affiliateLink: "https://meli.la/1gDAT6N"
 ---
 
 ## Dicas para um Espresso Perfeito na Sua Cafeteira Oster

@@ -13,6 +13,8 @@ tags:
   - "máquina de café"
   - "gourmet"
   - "sabor"
+
+affiliateLink: "https://meli.la/1gDAT6N"
 ---
 
 ## Dicas para Extrair o Melhor Café da Sua Oster Super Automática 

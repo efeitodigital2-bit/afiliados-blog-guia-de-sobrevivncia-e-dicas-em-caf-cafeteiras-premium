@@ -14,6 +14,8 @@ tags:
   - "tecnologia"
   - "design"
   - "qualidade"
+
+affiliateLink: "https://meli.la/1gDAT6N"
 ---
 
 ## Escolhendo sua Cafeteira Oster: Prima Latte, Touch ou Super Automática?

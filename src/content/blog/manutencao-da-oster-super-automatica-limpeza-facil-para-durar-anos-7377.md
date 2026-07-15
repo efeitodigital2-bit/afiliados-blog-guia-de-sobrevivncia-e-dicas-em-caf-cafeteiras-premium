@@ -12,6 +12,8 @@ tags:
   - "qualidade de sono"
   - "higiene"
   - "descanso"
+
+affiliateLink: "https://meli.la/1gDAT6N"
 ---
 
 ## Manutenção da Oster Super Automática: Limpeza Fácil para Durar Anos

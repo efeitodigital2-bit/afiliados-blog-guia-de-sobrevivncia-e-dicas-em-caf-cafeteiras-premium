@@ -16,6 +16,8 @@ tags:
   - "qualidade"
   - "longevidade"
   - "tecnologia"
+
+affiliateLink: "https://meli.la/1gDAT6N"
 ---
 
 ## Limpeza da Cafeteira Oster Prima Latte: Guia Passo a Passo Completo

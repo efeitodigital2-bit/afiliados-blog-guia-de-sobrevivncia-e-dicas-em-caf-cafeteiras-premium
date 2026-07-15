@@ -12,6 +12,8 @@ tags:
   - "cappuccino"
   - "latte macchiato"
   - "espresso machine"
+
+affiliateLink: "https://meli.la/1gDAT6N"
 ---
 
 ## Comparativo: Cafeteiras Espresso Oster Prima Latte e suas Alternativas 

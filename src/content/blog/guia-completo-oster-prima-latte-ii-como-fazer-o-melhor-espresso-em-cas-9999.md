@@ -17,6 +17,8 @@ tags:
   - "rotina"
   - "manhã"
   - "brunch"
+
+affiliateLink: "https://meli.la/1gDAT6N"
 ---
 
 ## Guia Completo Oster Prima Latte II: Como Fazer o Melhor Espresso em Casa

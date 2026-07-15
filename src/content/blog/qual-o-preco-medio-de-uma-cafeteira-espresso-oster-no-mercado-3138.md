@@ -16,6 +16,8 @@ tags:
   - "qualidade"
   - "reviews"
   - "funcionalidades"
+
+affiliateLink: "https://meli.la/1gDAT6N"
 ---
 
 ## Qual o Preço Médio de uma Cafeteira Espresso Oster no Mercado?

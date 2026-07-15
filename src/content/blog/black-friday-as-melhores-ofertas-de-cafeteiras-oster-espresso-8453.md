@@ -10,6 +10,8 @@ tags:
   - "Espresso"
   - "promoções"
   - "descontos"
+
+affiliateLink: "https://meli.la/1gDAT6N"
 ---
 
 ## Black Friday: As Melhores Ofertas de Cafeteiras Oster Espresso

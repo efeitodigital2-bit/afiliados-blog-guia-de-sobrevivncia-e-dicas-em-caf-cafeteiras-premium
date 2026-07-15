@@ -11,6 +11,8 @@ tags:
   - "Machado"
   - "Cappuccino"
   - "Latte Macchiato"
+
+affiliateLink: "https://meli.la/1gDAT6N"
 ---
 
 ## Oster Prima Latte: Dúvidas Frequentes sobre Funcionamento

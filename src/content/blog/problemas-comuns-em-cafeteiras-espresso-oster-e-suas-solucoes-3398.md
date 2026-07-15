@@ -23,6 +23,8 @@ tags:
   - "solução"
   - "problema"
   - "FAQ"
+
+affiliateLink: "https://meli.la/1gDAT6N"
 ---
 
 ## Problemas Comuns em Cafeteiras Espresso Oster e Suas Soluções

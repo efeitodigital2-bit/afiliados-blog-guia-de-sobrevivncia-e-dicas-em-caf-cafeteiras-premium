@@ -13,6 +13,8 @@ tags:
   - "praticidade"
   - "conveniência"
   - "aroma"
+
+affiliateLink: "https://meli.la/1gDAT6N"
 ---
 
 ## Café Moído na Hora: Vantagens da Oster Super Automática

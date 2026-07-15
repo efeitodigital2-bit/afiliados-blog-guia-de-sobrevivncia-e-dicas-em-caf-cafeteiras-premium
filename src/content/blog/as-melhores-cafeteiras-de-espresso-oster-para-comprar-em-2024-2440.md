@@ -16,6 +16,8 @@ tags:
   - "eficiência"
   - "versatilidade"
   - "tecnologia"
+
+affiliateLink: "https://meli.la/1gDAT6N"
 ---
 
 ## As Melhores Cafeteiras de Espresso Oster para Comprar em 2024
